@@ -1,1 +1,4 @@
-# Eval test repo
+# Example service
+
+Run the tests with `pytest`.
+
